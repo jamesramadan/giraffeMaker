@@ -1,3 +1,5 @@
+
+//adding psuedocomment
 var giraffeMaker = function(name, height) {
   var newGiraffe = {};
   newGiraffe.name = name;
